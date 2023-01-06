@@ -1,0 +1,44 @@
+{
+    "1" : {
+        "name":"AIR MAX PLUS", 
+        "price": 300,
+        "quantity": 19, 
+        "brand": "NIKE"
+    }, 
+    "2" : {
+        "name":"RS-3 X", 
+        "price": 300,
+        "quantity": 19, 
+        "brand": "PUMA"
+    }, 
+    "3" : {
+        "name":"SWIFT 2", 
+        "price": 300,
+        "quantity": 19, 
+        "brand": "NOTHING"
+    }, 
+    "4" : {
+        "name":"AIR JORDAN", 
+        "price": 300,
+        "quantity": 19, 
+        "brand": "NIKE"
+    }, 
+    "5" : {
+        "name":"Rebook one", 
+        "price": 300,
+        "quantity": 19, 
+        "brand": "NIKE"
+    }, 
+    "6" : {
+        "name":"Product 6", 
+        "price": 300,
+        "quantity": 19, 
+        "brand": "Brand 6"
+    }, 
+    "7" : {
+        "name":"Product 7", 
+        "price": 300,
+        "quantity": 19, 
+        "brand": "Brand 7"
+    }
+}
